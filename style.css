@@ -25,11 +25,12 @@ a {
     color: white;
     padding: 10px;
     margin-top: 80px;
+   
 }
 nav {
     margin-top: 20px;
     text-align: center;
-
+    
 }
 h1 {
     text-align: center;
@@ -58,6 +59,8 @@ article {
     padding-right: 10px;
     margin-left: 60px;
     box-shadow: 0 0 10px 5px grey;
+    padding-bottom: 50px;
+    margin-top: 50px;
 }
 .popular {
     background-color: white;
@@ -65,7 +68,7 @@ article {
     display: inline-block;
 }
 article:hover {
-    color: white;
+    color: ;
 }
 img {
     
@@ -87,3 +90,49 @@ footer {
     color: white;
     margin-bottom: 5px;
     padding-bottom: 5px;
+}
+    .aa {
+    text-decoration: none;
+    margin-right: 0px;
+    text-align: center;
+    background-color: #C71616;
+    color: white;
+    padding: 10px;
+    margin-top: 80px;
+}
+.vvv {
+    margin-top: 30px;
+    display: inline-block;
+    padding-right: 30px;
+    margin-right: 40px;
+}
+.im {
+     background-color: #AE0101;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 18px;
+}
+.ah {
+    background-color: white;
+    color: black;
+    
+}
+.ah:hover {
+    color: black;
+}
+.image {
+    background-color: white;
+    color: #E8A700;
+    display: inline-block;
+}
+.eda {
+    color: #004614;
+}
+article:hover {
+    ransform: scale(1.5);
+    transition: 1s linear;
+}
+h3 {
+    padding-top: 5px;
+}
