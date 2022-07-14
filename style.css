@@ -59,7 +59,7 @@ article {
     padding-right: 10px;
     margin-left: 60px;
     box-shadow: 0 0 10px 5px grey;
-    padding-bottom: 50px;
+    padding-bottom: 0px;
     margin-top: 50px;
 }
 .popular {
@@ -139,4 +139,11 @@ h3 {
 }
 a:hover {
     color: black;
+}
+.rr {
+    text-align: center;
+    background-color: #E8A700;
+    color: black;
+    padding: 5px;
+
 }
