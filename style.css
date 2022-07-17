@@ -90,6 +90,7 @@ footer {
     color: white;
     margin-bottom: 5px;
     padding-bottom: 5px;
+    text-align: left;
 }
     .aa {
     text-decoration: none;
@@ -131,8 +132,11 @@ footer {
     color: #004614;
 }
 article:hover {
-    ransform: scale(1.5);
-    transition: 1s linear;
+    background-color: #D4DFF5;
+    color: black;
+}
+p:hover {
+    color: black;
 }
 h3 {
     padding-top: 5px;
